@@ -14,8 +14,6 @@
 
 English | [简体中文](./README_zh.md)
 
-test
-
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
 
 ## 💻 Setup
